@@ -1,0 +1,5 @@
+I developed a Car Rental System to streamline my father's car rental business operations. This system is designed to manage the entire rental process efficiently. It allows customers to easily access the inventory by entering their name and license number. If they choose to rent a car, the system presents a list of available vehicles, displaying essential details like the model, company, and daily rental rate. Once a car is selected, the rental process begins seamlessly.
+
+For returns, the system shows all cars currently rented by the customer, allowing them to select the vehicle they wish to return. The system then calculates the total rental cost using advanced time and date algorithms. The project was developed using C++, utilizing data structures like vectors and arrays, along with various data types such as int, bool, and string.
+
+Currently in use at my father's office, this system has significantly improved the efficiency of the rental process. It operates smoothly, providing substantial support to my father and his team in managing the business.
